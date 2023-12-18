@@ -1,0 +1,20 @@
+[
+    {
+        "id" :1,
+        "title" : "brocoli",
+        "image" : "brocolis.jpg",
+        "description" : "Le brocoli est une variété de chou originaire de Sicile. Il fut sélectionné par les Romains à partir du chou sauvage. Ceux-ci l'appréciaient beaucoup et la cuisine italienne l'utilise beaucoup"
+    },
+    {
+        "id" :2,
+        "title" : "tomate",
+        "image" : "tomate.jfif",
+        "description" : "La tomate est une espèce de plantes herbacées du genre Solanum de la famille des Solanacées, originaire du Mexique."
+    },
+    {
+        "id" :3,
+        "title" : "Aubergine",
+        "image" : "Aubergine-violette.jpg",
+        "description" : "aubergine Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima obcaecati quidem, consectetur magnam omnis iste dolores aspernatur neque vero quam. Consectetur atque, nesciunt recusandae nam eos ipsum dignissimos libero nostrum."
+    }
+]

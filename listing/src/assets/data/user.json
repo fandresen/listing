@@ -1,0 +1,45 @@
+[
+    {
+        "id":1,
+        "name" : "belou",
+        "age" : 22,
+        "sexe" : "masculin",
+        "image" : "avatar1.png"
+    },
+    {
+        "id":2,
+        "name" : "lita",
+        "age" : 40,
+        "sexe" : "masculin",
+        "image" : "avatar4.png"
+    },
+    {
+        "id":3,
+        "name" : "lisy",
+        "age" : 19,
+        "sexe" : "feminin",
+        "image" : "avatar3.png"
+    },
+    {
+        "id":4,
+        "name" : "badoda",
+        "age" : 24,
+        "sexe" : "masculin",
+        "image" : "avatar5.png"
+    },
+    {
+        "id":5,
+        "name" : "ketaka",
+        "age" : 34,
+        "sexe" : "feminin",
+        "image" : "avatar2.png"
+    },
+    {
+        "id":6,
+        "name" : "bozy",
+        "age" : 18,
+        "sexe" : "feminin",
+        "image" : "avatar2.png"
+    }
+
+]
